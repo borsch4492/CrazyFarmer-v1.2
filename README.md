@@ -4,4 +4,8 @@ StartFile: CrazyFarmer_12v/CrazyFarmer_12v.pde
 
 Textures: CrazyFarmer_12v/assets/...
 
+MapFile: CrazyFarmer_12v/map.txt
+
+AdditionalStartFile: CrazyFarmer_12v/button.pde
+
 Language: Processing JAVA
