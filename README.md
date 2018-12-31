@@ -9,3 +9,8 @@ MapFile: CrazyFarmer_12v/map.txt
 AdditionalStartFile: CrazyFarmer_12v/button.pde
 
 Language: Processing JAVA
+
+Controls:
+  W A S D - Move
+  ESC - Pause
+  SPACE - Granade(Does not work)
